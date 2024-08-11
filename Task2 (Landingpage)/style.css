@@ -1,0 +1,108 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.cent 
+{
+  text-align: center;
+}
+body
+{
+  text-align: center!important;
+  margin-bottom: 0!important;
+  
+  background: linear-gradient(to left, #ffffff 50%, #f5ebeb 50%);
+}
+
+h1
+{
+  font-weight: bold!important;
+  font-size:70px!important;
+  
+}
+.loginsignup
+{
+  text-align: right!important;
+  margin-top:30px;
+  margin-right: 50px;
+}
+.container
+{
+  margin-top: 200px;
+  margin-left:-300px!important;
+ 
+}
+.getstarted
+{
+  margin-top:5px!important;
+  margin-left:0px!important;
+  border-radius: 20px!important;
+  padding-top:10px!important;
+  padding-left:40px!important;
+  padding-right:40px!important;
+  padding-bottom:10px!important;
+}
+.login
+{
+  margin-right:10px!important;
+  color:black!important;
+}
+.login:hover
+{
+  color:white!important;
+  background-color: black!important;
+  border-color: transparent!important;
+}
+.signup:hover
+{
+  color:white!important;
+  background-color: black!important;
+  border-color: transparent!important;
+}
+img
+{
+  width: 357.8175px!important;
+  height: 505.5615px!important;
+    margin-left: 720px!important;
+    margin-top: -320px!important;
+  border-radius: 20px!important;
+    -webkit-box-shadow: inset 1px 3px 49px 14px rgba(255,255,255,1)!important;
+    -moz-box-shadow: inset 1px 3px 49px 14px rgba(255,255,255,1)!important;
+    box-shadow: inset 1px 3px 49px 14px rgba(255,255,255,1)!important; 
+  
+}
+.carousel-inner{
+  z-index: -1;
+  width: 772.9175px!important;
+  height:auto!important;
+    margin-left: 760px!important;
+    margin-top: -450px!important;
+  margin-bottom: 0px!important;
+ 
+    -webkit-box-shadow: inset 1px 3px 49px 14px rgba(255,255,255,1)!important;
+    -moz-box-shadow: inset 1px 3px 49px 14px rgba(255,255,255,1)!important;
+    box-shadow: inset 1px 3px 49px 14px rgba(255,255,255,1)!important; 
+}
+.carousel-control-prev
+{
+  color:black!important;
+  margin-top: 40px!important;
+}
+h5
+{
+  z-index: 1;
+}
+.carousel
+{
+  width: 357.8175px!important;
+  height: 100vh!important;
+  margin-bottom: 0!important;
+  color:black!important
+}
+.carousel-control-prev,.carousel-control-next
+{
+  transform:scale(0.1);
+  display:none!important;
+}
+
+  
