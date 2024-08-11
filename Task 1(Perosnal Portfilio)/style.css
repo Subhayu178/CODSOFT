@@ -1,0 +1,108 @@
+html {
+  height: 100%;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+body
+{
+  background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 220, 250) 44%, rgb(225, 234, 238) 90%);
+  
+}
+.header{
+  background: radial-gradient(circle at 18.7% 37.8%, rgb(20, 250, 248) 0%, rgb(225, 234, 238) 90%);
+  display:block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: -30px;
+  width:100%;
+  
+}
+h1{
+   margin-top: 20px!important;
+   margin-left:40px;
+   color: darkblue!important;
+}
+h2{
+  margin-left:40px;
+  
+}
+h3{
+  margin-left:40px;
+  background: linear-gradient(to top, #9795f0 0%, #fbc8d4 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p
+{
+  margin-left: 40px;
+}
+.progress
+{
+  width:50%;
+  margin:0 auto;
+}
+.progress-bar
+{
+  background-color: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 25, 255) 100.5%)!important;
+}
+li
+{
+  color: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));;
+  font-size: 23px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-left: 40px;
+  font-weight: 600;
+  background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.project
+{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+  
+}
+.container 
+{
+  margin-top: 30px;
+  display: flex;
+}
+.card
+{
+  border-radius: 20px!IMPORTANT;
+  margin-right: 60px!important;
+}
+.skills
+{
+  margin-top: -30px;
+  text-align: center;
+  background: linear-gradient(89.7deg, rgb(0, 32, 95) 2.8%, rgb(132, 53, 142) 97.8%);
+  color:white;
+  padding-top:55px;
+  padding-bottom: 55px;
+}
+.about
+{
+  background-color: #bae8e8;
+  padding-top: 25px;
+  padding-bottom:25px;
+}
+.resume
+{
+ float:right;
+ margin-top: -95px;
+  margin-right: 20px;
+}
+.gradient-text {
+    
+  background: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.card-img-top
+{
+  height:210px!important;
+  width:287px!important;
+}
